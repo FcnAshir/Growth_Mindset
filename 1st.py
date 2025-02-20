@@ -1,7 +1,5 @@
-
 import streamlit as st
-
-st.set_page_config(page_title="Growth mindset project",project_icon="✶")
+st.set_page_config(page_title="Growth mindset project", page_icon="✶")
 st.title("Growth Mindset AI Project")
 st.write("If you are mistakes in our present so you are independent in your future! ")
 #quote section
